@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542659563577",
+    "project_id": "lukas-app-ef1ac",
+    "storage_bucket": "lukas-app-ef1ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542659563577:android:e330be0d44af55cdc77de8",
+        "android_client_info": {
+          "package_name": "com.example.lukasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542659563577-331kkahko9f33arlgu7hqa2bgqib41g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lukasapp",
+            "certificate_hash": "f837831feb100321dcb34eb4c317c886e2d3a9ec"
+          }
+        },
+        {
+          "client_id": "542659563577-b3j8s5sd0npt19ud5jaos075mdoqe0t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD37DCR9dDeJAqPnfhVD0gzIvq3REwrywg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542659563577-b3j8s5sd0npt19ud5jaos075mdoqe0t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
